@@ -1,0 +1,47 @@
+/*
+	!! Do not insert any CSS in this file
+*/
+
+$basefontsize: 16;
+
+// font weights
+$thin: 100;
+$hairline: 100;
+$extra-light: 200;
+$ultra-light: 200;
+$light: 300;
+$normal: 400;
+$regular: 400;
+$medium: 500;
+$semi-bold: 600;
+$demi-bold: 600;
+$bold: 700;
+$extra-bold: 800;
+$ultra-bold: 800;
+$black: 900;
+$heavy: 900;
+$extra-black: 950;
+$ultra-black: 950;
+
+// animation control
+$delay-1 : 0.2s;
+$delay-2 : 0.3s;
+$delay-3 : 0.4s;
+$delay-4 : 0.5s;
+
+@function transparent($opacity) { @return rgba(255, 255, 255, $opacity); }
+
+@function xdSpacing($xdUnit) { @return #{math.div($xdUnit, 1000)}em; }
+
+@function px($px) { @return math.div(round($px * math.div(1rem, $basefontsize) * 100), 100); }
+@function pt($pt) { @return px($pt * 1.333); }
+
+@function hexToRGB($hex) { @return red($hex), green($hex), blue($hex); }
+
+@mixin hover {
+	@media (pointer: fine) {
+		&:hover, .hover & {
+			@content;
+		}
+	}
+}

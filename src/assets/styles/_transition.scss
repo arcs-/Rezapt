@@ -1,0 +1,46 @@
+// FADE
+.default-leave-active,
+.default-enter-active {
+  transition: all 0.5s;
+}
+.default-enter,
+.default-leave-to {
+  opacity: 0;
+}
+.default-move {
+  transition: 0.5s;
+}
+
+$duration: 0.3s;
+$distanceY: 1rem;
+
+// FADE
+.fade-enter-active {
+  transition: opacity $duration ease-in, transform $duration ease-out;
+  transition-delay: $duration;
+}
+.fade-leave-active {
+  transition: opacity $duration ease-out, transform $duration ease-in;
+}
+.fade-enter-to, .fade-leave-from {
+  opacity: 1;
+  transform: translateY(0px);
+}
+.fade-enter-from {
+  opacity: 0;
+  transform: translateY($distanceY);
+}
+.fade-leave-to {
+  opacity: 0;
+  transform: translateY(-$distanceY);
+}
+// APPEAR
+.appear-enter-active,
+.appear-leave-active {
+  transition: opacity 0.35s ease;
+}
+
+.appear-enter-from,
+.appear-leave-to {
+  opacity: 0;
+}

@@ -1,0 +1,458 @@
+[{
+	"title": "Hörnli Salat",
+	"for": "1 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Hörnli", "100 g"],
+		["Tomatä", "2"],
+		["Essig Gurkä", "3"],
+		["Chäs", "So es bizli"],
+		["Peperoni", "1"]
+	]
+},{
+	"title": "Linse Topf",
+	"for": "2 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Rapsöl", "1 EL"],
+		["Zwiblä", "1"],
+		["Chnobli", "1"],
+		["Rüebli", "1"],
+		["Sellerie", "1/2"],
+		["Tomatepüüre", "2 EL"],
+		["Linse", "150 g"],
+		["Rotwii", "1/2 dl"],
+		["Bouillon", "1/2 l"],
+		["Gwürz", "wasd meinsch"],
+		["(optional) Späck", "60g"]
+	]
+},{
+	"title": "Burger & Wedges",
+	"for": "1 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Burger", "1"],
+		["Brötli", "1"],
+		["Salat", "100 g"],
+		["Chäs", "1 Schibä"],
+		["Ketchup", "es biz"],
+		["Senf", "es biz"],
+		["Sprose", "es biz"],
+		["Wedges", "200 g"]
+	]
+}, {
+	"title": "Raclette",
+	"for": "1 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Chäs", "4 Schibä"],
+		["Chlini Härdöpfel", "6"],
+		["Silberzwibeli", "Glas"],
+		["Essiggurkä", "Glas"],
+		["Pepperoni", ".5"],
+		["Champignons", "5"],
+		["Späck", "2 Scheiben"],
+		["Chipolata", "2"],
+		["(optional) Grillfleisch", "100 g"]
+	]
+}, {
+	"title": "Lasagne",
+	"for": "4 Personä",
+	"link": "https://www.swissmilk.ch/de/rezepte/SM2017_DIVE_15/lasagne/?qe=1458&qd=1&nr=1",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Hackfleisch", "400 g"],
+		["Zwiblä", "1"],
+		["Knoblauchzäh", "2"],
+		["Sellerie", "60g"],
+		["Rüebli", "1"],
+		["Tomatenpüree", "2 EL"],
+		["Pelati", "500 g"],
+		["Fleischbouillon", "1.5 dl"],
+		["Peterli", "2 EL"],
+		["Milch", "5 dl"],
+		["Mähl", "2 EL"],
+		["Buttär", "40 g"],
+		["Lasagneblättr", "300 g"],
+		["Sbrinz", "100 g"]
+	]
+}, {
+	"title": "Süess Härdöpfel & Spinat",
+	"for": "1 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Süess Härdöpfel", "3"],
+		["Meersalz", "etwas"],
+		["Olivä Öl", "etwas"],
+		["Spinat", "200 g"]
+	]
+}, {
+	"title": "Züri Gschnäzlets",
+	"for": "1 Person",
+	"tags": [],
+	"ingredients": [
+		["Ghackets", "100 g"],
+		["Mähl", "es biz"],
+		["Zwiblä", "1"],
+		["Champignons", "50 g"],
+		["Rotwii", "0.25 dl"],
+		["Bouillon", "0.25 dl"]
+	]
+}, {
+	"title": "Härdöpfelsalat & Fleischchäs",
+	"for": "1 Person",
+	"tags": [],
+	"ingredients": [
+		["Härdöpfel", "100 g"],
+		["Zwiblä", "1/2"],
+		["Peterli", "es biz"],
+		["Fleischchäs", "en ganze"]
+	]
+}, {
+	"title": "SchniPo",
+	"for": "1 Person",
+	"tags": [],
+	"ingredients": [
+		["Schnitzel", "3"],
+		["Ei", "1"],
+		["Paniärmähl", "gnueg"],
+		["Olivä Öl", "es biz"],
+		["Pommes", "300 g"],
+		["Preiselbeeri", "Glas"]
+	]
+}, {
+	"title": "Spaghetti",
+	"for": "1 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Pelati", "ä dosä"],
+		["Dörti Tomate", "es pack"],
+		["Rahm", "2 dl"],
+		["Spaghetti", "200 g"],
+		["Riebchäs", "30 g"]
+	]
+}, {
+	"title": "Pizza",
+	"for": "es bläch",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Pizza Teig", "1"],
+		["Mozarella", "3 Böllä"],
+		["Tomate", "3"],
+		["Pelati", "1 Dosä"],
+		["<small><i>* went wetsch</i></small>", ""],
+		["Peperoni", "1"],
+		["Schinkä", "es pack"],
+		["Champignons", "10"],
+		["(halt die fest) Ananas", "sovill wit wetsch"]
+	]
+}, {
+	"title": "Wurst-Chäs Salat",
+	"for": "1 Person",
+	"tags": [],
+	"ingredients": [
+		["Cervelats", "2"],
+		["Essiggurkä", "2"],
+		["Tomate", "1"],
+		["Emmentaler", "1/4"],
+		["Mais", "kleine Dose"],
+		["Zwiblä", "1/4"],
+		["Ei", "1"],
+		["Salat sauce", "2 dl"]
+	],
+	"recipe": "Alles schinde und mische."
+}, {
+	"title": "Tortellini",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Tortelini", "1 Pack"],
+		["Tomatensauce", "Dose"]
+	]
+}, {
+	"title": "TarTar",
+	"tags": [],
+	"ingredients": [
+		["TarTar", "Eis wo dr passt"],
+		["Toast", "Vollchorn"],
+		["Lauch", "1"],
+		["Kapere", "Glas"],
+		["Zwiblä", "2"],
+		["Essig Gurke", "2"]
+	]
+}, {
+	"title": "Bratwurst & Rösti",
+	"tags": [],
+	"ingredients": [
+		["Bratwurst", "1"],
+		["Rösti", "1 Pack"],
+		["Zwiblä", "1"],
+		["So Eier", "1"]
+	]
+}, {
+	"title": "Chilli Con Carne",
+	"tags": [],
+	"ingredients": [
+		["Kidney-Bohnen", "1 Dose"],
+		["Mais", "1 Dose"],
+		["Rapsöl", "2 EL"],
+		["Hackfleisch", "500g"],
+		["Zwiblä", "2"],
+		["Chnobli", "2"],
+		["Chillis", "3"],
+		["Pelati", "1 - 2 Dose"],
+		["Rotwein", "En Gutsch"],
+		["Wasser", "En Gutsch"],
+		["Chillis", "3"]
+	]
+}, {
+	"title": "Lachs & Reis",
+	"tags": [],
+	"ingredients": [
+		["Lachs", "200g"],
+		["Riss", "1 Tasse"],
+		["Erbe", "1/2 Dose"],
+		["Meerrettich", "Pack usm Migros"]
+	]
+}, {
+	"title": "Ghackets mit Hörnli",
+	"for": "1 Person",
+	"link": "https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZD110415_0022B-40-de",
+	"tags": [],
+	"ingredients": [
+		["Hackfleisch", "125 g"],
+		["Zwieblä", "1/4"],
+		["Rüebli", "1/4"],
+		["Sellerie", "25 g"],
+		["Rotwii", "0.7 dl"],
+		["Fleischbouillon", "0.7 dl"],
+		["Tomatenpüree", "1 EL"],
+		["Lorbeerblatt", "1/4"],
+		["Thymian, Salz, Pfäffer", "wiet wetsch"],
+		["Hörnli", "130 g"]
+	]
+}, {
+	"title": "Früählingsrollä",
+	"for": "1 Person",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Früählingsrollä", "äs pack"]
+	]
+}, {
+	"title": "Älplermagronä",
+	"for": "4 Personä",
+	"link": "https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZA140106_0005A-40-de",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Zwiblä", "2"],
+		["Knoblauchzäh", "2"],
+		["Härdöpfel", "400 g"],
+		["Gmüessbouillon", "5 dl"],
+		["Halbrahm", "2 dl"],
+		["Teigware", "250 g"],
+		["Gruyère", "100 g"]
+	]
+}, {
+	"title": "Richtigi Älplermagronä",
+	"for": "4 Personä",
+	"link": "http://älplermagronen.ch/",
+	"tags": [],
+	"ingredients": [
+		["Cervelat", "8 Stuck"],
+		["Knoblauchzäh", "2"],
+		["Zwiblä", "4"],
+		["Teigware", "400 g"],
+		["Gruyère", "500 g"]
+	]
+},{
+	"title": "Fischstäbli & Spinat",
+	"for": "4 Personä",
+	"tags": [],
+	"ingredients": [
+		["Fischstäbli", "4"],
+		["Spinat", "150 g"],
+		["Mayonnaise", "es biz"]
+	]
+}, {
+	"title": "Curry",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Curry", "Sones Glas"],
+		["Kokosnus Milch", "Grosses Pack"],
+		["Peperoni", "2"],
+		["Obergine", "1"],
+		["Chnobli", "1"],
+		["Zwiblä", "1"],
+		["Chillischote", "1"],
+		["Riis", "3 Tasse"]
+	]
+}, {
+	"title": "Bachoffegmüess",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Rüebli", "3"],
+		["Obergine", "1"],
+		["Peperoni", "2"],
+		["Zwiblä", "2"],
+		["Chnobli", "2"],
+		["Zuchini", "1"],
+		["Chilli", "1"],
+		["Olivä Öl", "3 EL"]
+	]
+}, {
+	"title": "Fondue",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Chäs mischig", "250 g"],
+		["Wieswii", "1 dl"],
+		["Meizena", "es biz"],
+		["Chnobli", "2"],
+		["Brot", "e ganzes"]
+	]
+}, {
+	"title": "Sloppy Joe",
+	"tags": [],
+	"ingredients": [
+		["Toast", "4"],
+		["Chäss", "50g"],
+		["Ghackets", "200g"],
+		["Sänf", "es biz"],
+		["Ketchup", "es biz"],
+		["Soja Sauce", "es biz"]
+	]
+}, 
+{
+	"title": "Fajitas",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Pepperoni", "4"],
+		["Champignons", "10"],
+		["Zwiblä", "2"],
+		["Chnobli", "2"],
+		["Chilli", "1"],
+		["Avocado", "2"],
+		["Salsa", "es glas"],
+		["Tortias", "4"],
+		["<small><i>* went wetsch</i></small>", ""],
+		["Fleisch stückli", "100g"]
+	]
+},
+{
+	"title": "Tagliatelle all'arrabbiata",
+	"tags": ["vegi"],
+	"link": "https://fooby.ch/de/rezepte/13427/tagliatelle-all-arrabbiata?startAuto1=0",
+	"ingredients": [
+		["Harrisa", "2 Löfel"],
+		["Mascarpone", "100g"],
+		["Dörti Tomate", "50g"],
+		["Pasta", "300g"]
+	]
+},
+{
+	"title": "Linse Dal",
+	"tags": ["vegi"],
+	"link": "https://biancazapatka.com/de/rotes-linsen-dal/",
+	"ingredients": [
+		["Roti Linse", "300g"],
+		["Zwible", "2"],
+		["Chnobli zähe", "4"],
+		["Bouillon", "780ml"],
+		["Kokosmilch", "250ml"],
+		["Ghackti Tomate", "250ml"],
+		["Ingwer", "2 TL"],
+		["Kurkuma", "1 TL"],
+		["Koriander", "1 TL"],
+		["Paprika", "1 TL"],
+		["Curry", "1 TL"],
+		["&nbsp;", ""],
+		["Dezue", "Naan"],
+		["", "Jogurt"]
+	]
+},
+{
+	"title": "Naan",
+	"tags": ["vegi"],
+	"link": "https://fooby.ch/de/rezepte/16748/naan--indisches-fladenbrot-?startAuto1=0&menge=8",
+	"ingredients": [
+		["Wismehl", "350g"],
+		["Salz", "1 TL"],
+		["Zucker", "1 TL"],
+		["Torchehefe", "1.5 TL"],
+		["Butter", "2 EL"],
+		["Wasser", "1 dl"],
+		["Milch", "0.5 dl"],
+		["Grichischs Jogurt", "75g"]
+	]
+},
+{
+	"title": "Chürbis Quiche",
+	"tags": ["vegi"],
+	"link": "https://www.nahrin.ch/de/rezept/kuerbis-quiche-mit-speck",
+	"ingredients": [
+		["Kuchenteig", "1"],
+		["Chürbis", "400g"],
+		["Zwible", "2"],
+		["Chäs", "150g"],
+		["Eier", "3"],
+		["Crème Fraîche", "250 g"],
+		["Speck", "hald so biz"],
+		["Salz, Pfeffer & Schnittlauch", ""]
+	]
+},
+{
+	"title": "Spinatwähe",
+	"tags": ["vegi"],
+	"link": "https://m.bettybossi.ch/de/Rezept/ShowRezept/BB_BBZE140515_0009A-40-de",
+	"ingredients": [
+		["Blätterteig", "1"],
+		["Spinat", "800g"],
+		["Halbrahm", "1 dl"],
+		["Eier", "3"],
+		["Chäs", "30g"],
+		["Salz, Pfeffer & Schnittlauch", ""],
+		["&nbsp;",""],
+		["Dezue", "Salat"]
+	]
+},
+{
+	"title": "Penne Cinque Pi",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Penne", "500g"],
+		["Halbrahm", "4 dl"],
+		["Tomatenpüree", "3 EL"],
+		["Parmesan", "4 EL"],
+		["Peterli", "2 EL"],
+		["Pfeffer", "1 EL"]
+	]
+},
+{
+	"title": "Cordon bleu",
+	"tags": [],
+	"ingredients": [
+		["Cordon bleu", "1"],
+		["Pommes", "100 g"],
+		["Salat", "1"],
+		["&nbsp;",""],
+		["Dezue", "Ketchup"]
+	]
+},
+{
+	"title": "Aargauer Rüeblitorte",
+	"tags": ["dessert"],
+	"link": "https://m.bettybossi.ch/de/Rezept/ShowRezept/BB_KUCA130802_0136A-120-de?setDevice=auto#",
+	"ingredients": [
+		["Zucker", "250 g"],
+		["Eier", "5"],
+		["heisses Wasser", "2 EL"],
+		["Rüebli","250 g"],
+		["gemahlene Mandeln","250 g"],
+		["Bio-Zitrone, abgeriebene Schale und Saft","1"],
+		["Kirsch","4 EL"],
+		["Mehl","80 g"],
+		["Backpulver","2 TL"],
+		["Salz","Prise"],
+		["Puderzucker","300g"],
+		["Marzipanrüebli","12"]
+	]
+}
+]

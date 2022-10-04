@@ -1,0 +1,22 @@
+:root {
+
+  --color-active: var(--color-jkblue);
+  --color-sand: rgb(255 251 246);
+
+}
+// !!! global scss varriables belong in _mixin
+
+// tailwind import
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// tailwind extensions
+@import "grid";
+
+// our scss
+@import "global";
+@import "type";
+@import "image";
+@import "transition";
+
