@@ -4,7 +4,6 @@ import { createHead } from '@vueuse/head';
 import App from '@/App.vue';
 
 import './assets/styles/main.scss';
-import './registerServiceWorker';
 
 // app
 // --------------------------------

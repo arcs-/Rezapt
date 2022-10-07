@@ -435,8 +435,7 @@
 		["&nbsp;",""],
 		["Dezue", "Ketchup"]
 	]
-},
-{
+}, {
 	"title": "Aargauer Rüeblitorte",
 	"tags": ["dessert"],
 	"link": "https://m.bettybossi.ch/de/Rezept/ShowRezept/BB_KUCA130802_0136A-120-de?setDevice=auto#",
@@ -453,6 +452,13 @@
 		["Salz","Prise"],
 		["Puderzucker","300g"],
 		["Marzipanrüebli","12"]
+	]
+}, {
+	"title": "Gmüess plätzli",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Gmüessplätzli usm Migros", "1 pack"],
+		["Eier", "2"]
 	]
 }
 ]

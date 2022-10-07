@@ -4,6 +4,7 @@
 import vue from '@vitejs/plugin-vue';
 import svgLoader from 'vite-svg-loader';
 import { defineConfig } from 'vite';
+import { VitePWA } from 'vite-plugin-pwa';
 
 const path = require('path');
 
@@ -12,7 +13,39 @@ export default defineConfig({
   envPrefix: 'PUBLIC_',
 
   plugins: [
+
     vue(),
+
+    VitePWA({
+      registerType: 'autoUpdate',
+      includeAssets: ['favicon.png', 'apple-touch-icon.png', 'masked-icon.svg'],
+      manifest: {
+        name: 'Was sölli choche?',
+        short_name: 'Ässe',
+        description: 'Ässens Ideee für Schwizer',
+        theme_color: '#fffbf6',
+        background_color: '#fffbf6',
+        icons: [
+          {
+            src: 'pwa-192x192.png',
+            sizes: '192x192',
+            type: 'image/png',
+          },
+          {
+            src: 'pwa-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+          },
+          {
+            src: 'pwa-512x512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'any maskable',
+          },
+        ],
+      },
+    }),
+
     svgLoader({
       svgoConfig: {
         multipass: true,
@@ -34,6 +67,7 @@ export default defineConfig({
         ],
       },
     }),
+
   ],
 
   resolve: {
