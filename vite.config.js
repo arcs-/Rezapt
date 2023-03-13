@@ -20,8 +20,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.png', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'Was sölli choche?',
-        short_name: 'Ässe',
+        name: 'Was gits z ässe?',
+        short_name: 'Was gits?',
         description: 'Ässens Ideee für Schwizer',
         theme_color: '#fffbf6',
         background_color: '#fffbf6',

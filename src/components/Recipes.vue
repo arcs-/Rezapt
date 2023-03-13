@@ -109,7 +109,7 @@ function setupDrag(el) {
   hammer = new Hammer(el, {
     touchAction: 'pan-y',
     recognizers: [
-      [Hammer.Pan, { threshold: 3 }],
+      [Hammer.Pan, { threshold: 0, direction: Hammer.DIRECTION_ALL }],
     ],
   })
     .on('pan', (event) => {
