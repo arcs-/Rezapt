@@ -67,7 +67,7 @@ function next() {
 */
 const FUSE = new Fuse(recepieList, {
   keys: ['title', 'tags', 'ingredients'],
-  minMatchCharLength: 2,
+  minMatchCharLength: 1,
   threshold: 0.3,
 });
 
@@ -121,7 +121,7 @@ function setupDrag(el) {
 
       const card = el.firstElementChild;
 
-      card.classList.add('moving');
+      card.classList?.add('moving');
 
       const xMulti = event.deltaX * 0.03;
       const yMulti = event.deltaY / 80;
@@ -131,6 +131,8 @@ function setupDrag(el) {
     })
     .on('panend', (event) => {
       const card = el.firstElementChild;
+      if (!card) return;
+
       card.classList.remove('moving');
 
       if (recipes.value.length < 2) return;
@@ -155,12 +157,14 @@ function setupDrag(el) {
       card.style.transform = `translate(${toX}px, ${toY + event.deltaY}px) rotate(${rotate}deg)`;
       setTimeout(next, 200);
       setTimeout(() => {
+        if (!card) return;
         card.classList.remove('removing');
         card.style.transform = '';
       }, 500);
     })
     .on('pancancel', () => {
       const card = el.firstElementChild;
+      if (!card) return;
       card.classList.remove('moving');
       card.style.transform = '';
     });
@@ -189,10 +193,10 @@ useEventListener('popstate', (e) => {
 .Recipe {
   position: absolute;
   margin-bottom: 3rem;
-  --shade: 0 0 0 100vmax rgba(255 251 246 / 60%);
+  --shade: 0 0 0 100vmax rgba(244 232 219 / 60%);
 
   &:not(.moving) {
-    transition: .3s ease;
+    transition: .15s ease;
     transition-property: transform, box-shadow, opacity;
   }
 

@@ -1,6 +1,6 @@
 <template>
 
-  <div class="Recipe p-8 rounded-lg bg-white w-full">
+  <div class="Recipe p-8 rounded-lg bg-white w-full" tabindex="0">
 
     <h1 class="mb-6">
       {{ props.recipe.title }}
@@ -39,7 +39,8 @@ const props = defineProps({ recipe: Object });
 .Recipe {
   box-shadow: 0 14px 28px rgba(0,0,0,0.25),
               0 10px 10px rgba(0,0,0,0.22),
-              var(--shade, 0 0 0 0),
+              var(--shade, 0 0 0 0);
+  border: 3px dashed #ececec;
 }
 
 tr:not(:last-child) {

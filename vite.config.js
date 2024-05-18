@@ -20,11 +20,11 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.png', 'apple-touch-icon.png', 'masked-icon.svg'],
       manifest: {
-        name: 'Was gits z ässe?',
-        short_name: 'Was gits?',
+        name: 'Pots',
+        short_name: 'Pots',
         description: 'Ässens Ideee für Schwizer',
-        theme_color: '#fffbf6',
-        background_color: '#fffbf6',
+        theme_color: '#F4E7DB',
+        background_color: '#F4E7DB',
         icons: [
           {
             src: 'pwa-192x192.png',

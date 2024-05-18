@@ -1,5 +1,7 @@
 <template>
-  <div class="absolute container px-6 left-1/2 transform -translate-x-1/2 z-10 text-right mt-4">
+  <div class="absolute container px-6 left-1/2 transform -translate-x-1/2 z-10 flex mt-4">
+
+    <Carrot class="w-7 mr-auto" />
 
     <Cake v-if="!cake" class="Cake w-7 mr-4" @click="cake = !cake" />
     <CakeSolid v-else class="Cake w-7 mr-4" @click="cake = !cake" />
@@ -22,6 +24,7 @@
 import { watch } from 'vue';
 import { useEventBus, useStorage } from '@vueuse/core';
 
+import Carrot from '@images/carrot.svg';
 import Cake from '@images/cake.svg';
 import CakeSolid from '@images/cake-solid.svg';
 import Search from '@images/search.svg';
@@ -43,7 +46,6 @@ watch(search, () => { bus.emit('search'); });
     @apply w-10 px-4 py-2 rounded-full bg-sand text-black -mr-2 opacity-0;
     transition: .3s;
     &:focus,
-    &:hover,
     &:valid {
       @apply w-48 opacity-100;
       outline: 1.5px solid currentColor;

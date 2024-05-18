@@ -454,11 +454,129 @@
 		["Marzipanrüebli","12"]
 	]
 }, {
+	"title": "Bananenbrot",
+	"tags": ["dessert"],
+	"link": "https://www.einfachbacken.de/rezepte/bananenbrot",
+	"ingredients": [
+		["Bananen", "3"], 
+		["Apfel", "1"],
+		["Eier", "2"],
+		["Mehl","200 g"],
+		["Backpulver","3 TL"],
+		["Salz","Prise"],
+		["Zimt","Prise"],
+		["Vanillezucker","Prise"]
+	]
+},{
 	"title": "Gmüess plätzli",
 	"tags": ["vegi"],
 	"ingredients": [
 		["Gmüessplätzli usm Migros", "1 pack"],
 		["Eier", "2"]
+	]
+},{
+	"title": "Zucchetti-Risotto",
+	"tags": ["vegi"],
+	"link": "https://migusto.migros.ch/de/rezepte/zucchetti-risotto?gclid=Cj0KCQjwk7ugBhDIARIsAGuvgPZ147lHOz-HRa0NalJiyMof9_o-UzYhI2MmgTnuDnZR-KWGdxLVouAaAsqfEALw_wcB",
+	"ingredients": [
+		["Zwiebel", "1"],
+		["Knoblauchzehe", "1"],
+		["Zucchetti", "350 g"],
+		["Olivenöl", "3 EL"],
+		["Risotto-Reis", "300 g"],
+		["Weisswein", "1 dl"],
+		["Gemüsebouillon", "8 dl"],
+		["Pinienkerne", "3 EL"],
+		["Parmesan", "50 g"],
+		["Salz & Pfeffer", "Prise"]
+	]
+},{
+	"title": "Spinat Lasagne",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Platten", "200 g"],
+		["Öl", "1 EL"],
+		["Zwiebel", "1"],
+		["Knoblauchzehe", "1"],
+		["Rahmspinat", "600 g"],
+		["Gemüsebouillon", "1 dl"],
+		["Mascarpone", "200 g"],
+		["Salz & Pfeffer", "Prise"],
+		["Sauce", ""],
+		["Mehl", "2 EL"],
+		["Milch", "3 dl"],
+		["Rahm", "1 dl"],
+		["Sbrinz", "50 g"],
+		["Salz, Pfeffer & Muskat", "Prise"]
+	]
+},{
+	"title": "Gerstensuppe",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Suppengemüse", "1 Pack"],
+		["Bünderflisch", "50 g"],
+		["Rollgerste", "50 g"],
+		["Fleischbouillon", "1.5 l"],
+		["Rahm", "3 EL"]
+	]
+},{
+	"title": "Tuscan chickpeas",
+	"tags": ["vegi"],
+	"link": "https://www.instagram.com/reel/CrLf93Pg1R_/?igsh=MTBjcjU0a2w5cmRkbw==",
+	"ingredients": [
+		["Zwibel", "halbi"],
+		["Chnobli", "3 zähe"],
+		["Kokosmilch", "1 Dose"],
+		["Bouillon", "1 dl"],
+		["Basilikum", "paar"],
+		["Senf", "2 Löfel"],
+		["Zitrone", "halbi"],
+		["Tomatenpüree", "4 löfel"],
+		["Dörti Tomate", "230g"],
+		["Kichererbsä", "1 Dose"],
+		["Spinat", "1 Pack"],
+		["Gwürz", "wasd meinsch"]
+	]
+},{
+	"title": "Kichererbsen Wrap",
+	"link": "https://www.instagram.com/reel/CqVAnSCgWNF/?igsh=bGk3Z2R4cG53bGx0",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Kichererbsä", "2 Dose"],
+		["Paprika", "1 TL"],
+		["Salz", "1 TL"],
+		["Öl", "1 EL"],
+		["Sambal Oelek (chilli)", "2 EL"],
+		["Wraps", "4"],
+		["Isbergsalat", "1"]
+	]
+},
+{
+	"title": "Mongolian Chicken",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Tofu", "500g"],
+		["Maizena", "2 Tl"],
+		["Hoisin Sauce", "4 TL"],
+		["Sojasauce", "2 TL"],
+		["Sesamöl", "2 TL"],
+		["Brauner Zucker", "2 TL"],
+		["Knoblauch", "1"],
+		["Ingwer", "1"],
+		["Chilli", "1"],
+		["Wasser", "150 ml"],
+		["Reis", "1 Tasse"]
+	]
+},{
+	"title": "Gnocchi",
+	"tags": ["vegi"],
+	"ingredients": [
+		["Gnocchi", "1 Pack"],
+		["Tomatensauce", "1 Glas"],
+		["Zucchetti", "1"],
+		["Chnobli", "1"],
+		["Peperoni", "1"],
+		["Burrata", "1"]
 	]
 }
 ]
