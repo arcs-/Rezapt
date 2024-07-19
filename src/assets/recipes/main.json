@@ -578,5 +578,26 @@
 		["Peperoni", "1"],
 		["Burrata", "1"]
 	]
+},{
+	"title": "Palak Paneer",
+	"tags": ["vegi"],
+	"link": "https://www.cookwithmanali.com/palak-paneer/",
+	"ingredients": [
+		["Spinat", "350g"],
+		["Tomate", "1 Dose"],
+		["Dörti Tomate", "6"],
+		["Chnobli", "3"],
+		["Ingwer", "1"],
+		["Chilli", "1"],
+		["Öl", "15ml"],
+		["Zwiblä", "1"],
+		["Wasser", "1 dl"],
+		["Garam Masala", "1 TL"],
+		["Turmeric", "1/4 TL"],
+		["Salz", "1 TL"],
+		["Paneer", "400g"],
+		["Zitronesaft", "1 TL"],
+		["Rahm", "1 dl"]
+	]
 }
 ]
